@@ -49,13 +49,13 @@ dan ini adalah tampilan setelah tabel direktur diisi value atau nilainya.
 
 ## TELLER
 ![Screenshot 2023-09-14 002843](https://github.com/Dlann12/Table_Database/assets/130965620/ea0e88a2-3d23-4b7e-a22c-47f586289240)
-Gambar idiatas merupakan tabel databse pada teller, yang memiliki atribut yaitu id_teller dan juga nama_teller, id_teller sebagai primary key disini.
+Gambar diatas merupakan tabel databse pada teller, yang memiliki atribut yaitu id_teller dan juga nama_teller, id_teller sebagai primary key disini.
 untuk melihat kode pembuatan tabel dapat diakses disini 
 - Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/teller.sql">Kode Tabel teller</a><br><br>
 kemudian kode tersebut akan menghasilkan output sebagai berikut
 ![Screenshot 2023-09-14 003559](https://github.com/Dlann12/Table_Database/assets/130965620/b32e4d53-7ec3-4dd7-b468-6759db9bda2e)
 
-ini adalah tabel dari teller
+ini adalah tabel dari teller, karena kurang lebih pembahasannnya sama seperti diatas saya rasa tidak perlu dijelaskan kembali, terimkasih
 
 ![Screenshot 2023-09-14 003616](https://github.com/Dlann12/Table_Database/assets/130965620/af39ceec-ef3e-41cc-a2d0-8b9f97dd989a)
 

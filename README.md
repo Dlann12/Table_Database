@@ -4,4 +4,5 @@ Pada praktikum kali ini saya akan membuat sebuah tabel database pada web phpmyad
 
 ![Screenshot 2023-09-13 225207](https://github.com/Dlann12/Table_Database/assets/130965620/40557b73-46e9-4ad1-9b09-4c8161f2f2dc)
 Gambar tersebut akan kita buat database nya pada phpmyadmin dengan memasukkan tabel tabel yang sesuai dengan data, lalu memasukkan value yang sesuai dengan tabel dan jenisnya. Berikut adalah kode untuk membuat tabel nasabah menggunakan skrip sql 
-- Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/nasabah.sql">kode</a><br><br>
+- Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/nasabah.sql">Kode Tabel Nasabah</a><br><br>
+Kemudain setelah memuat kode diatas di laman sql pada phpmyadmin, maka akan menjadi web seperti berikut

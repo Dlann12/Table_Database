@@ -59,4 +59,4 @@ ini adalah tabel dari teller
 
 ![Screenshot 2023-09-14 003616](https://github.com/Dlann12/Table_Database/assets/130965620/af39ceec-ef3e-41cc-a2d0-8b9f97dd989a)
 
-ini merupakan tabel setelah diisi value atau nilainy, , karena kurang lebih pembahasannnya sama seperti diatas saya rasa tidak perlu dijelaskan kembali, terimakasih.
+ini merupakan tabel setelah diisi value atau nilainy, karena kurang lebih pembahasannnya sama seperti diatas saya rasa tidak perlu dijelaskan kembali, terimakasih.

@@ -24,39 +24,39 @@ terlihat tampilan diatas adalah tampilan setelah kitaa membuat tabel phpmyadmin 
 Untuk menampilkan value nya kita perlu memasukan value terlebih dahulu sehingga value akan muncul setelah kita masukkan datanya.
 
 ## CABANG BANK
-![Screenshot 2023-09-14 002812](https://github.com/Dlann12/Table_Database/assets/130965620/a93bb7b5-c723-4b18-9ee6-4adb70ee3c82)
+![Screenshot 2023-09-17 161959](https://github.com/Dlann12/Table_Database/assets/130965620/a129ec72-0ca7-462c-aa1e-57807585f81b)
 Gambar ini merupakan gambar dari tabel cabang bank, terdapat id_cabang sebagai primary key, dan juga atribut atribut lainnya.
 lalu kita membuat sebuah tabel daatabase pada web phpmyadmin, dengan kode sebagai berikut
 - Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/cabangbank.sql">Kode Tabel Cabang Bank</a><br><br>
 dari kode tersebut maka akan menjadi sebuah tampilan web sebagai berikut
-![Screenshot 2023-09-14 003644](https://github.com/Dlann12/Table_Database/assets/130965620/526eb711-9850-4ef7-8822-e13dd0033581)
+![Screenshot 2023-09-17 162040](https://github.com/Dlann12/Table_Database/assets/130965620/358f4bdb-55dc-481a-bb97-359bd1ad64c9)
 ini merupakan tampilan pada web phpmyadminnya yang merupakan tabel nya
-![Screenshot 2023-09-14 003651](https://github.com/Dlann12/Table_Database/assets/130965620/4028acf5-ca5f-4d56-a5e5-a75fe11588f4)
+![image](https://github.com/Dlann12/Table_Database/assets/130965620/084c8593-3612-4400-832d-8508ce6ee303)
 
 ini merupakan tabel yang telah kita masukkan valuenya sehingga memiliki nilai, dan tentunya setiap tabel memiliki primary key nya masing masing,untuk pembahasan kurang lebih sama seperti sebelumnya jadi saya hanya akan memberikan keterangan saja pada gambar.
 
 ## DIREKTUR BANK
-![Screenshot 2023-09-14 002826](https://github.com/Dlann12/Table_Database/assets/130965620/94f337b0-4b60-4023-a58f-9846ad511184)
+![image](https://github.com/Dlann12/Table_Database/assets/130965620/9334cd01-fb12-4037-8b45-e9daa64293c5)
 Gambar diatas merupakan gambar dari tabel direktur bank terdapat atribut atribut berupa id_direktur dan juga nama_direktur, yang dimana id_direktur nmerupakan primary key dari tabel direktur bank.
 untuk kode pembuatan tabel pada phpmyadmin dapat dilihat sebagai berikut 
 - Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/direktur.sql">Kode Tabel Direktur</a><br><br>
 Pada kode diatas akan mendjadi sebuah tampilan pada web phpmyadmin seperti sebelum sebelumnya yaitu seperti gambar dibawah ini
-![Screenshot 2023-09-14 003630](https://github.com/Dlann12/Table_Database/assets/130965620/4a4c5e22-f9e4-4e0d-a2e7-fbb5412e16e2)
+![image](https://github.com/Dlann12/Table_Database/assets/130965620/770d2f9c-7e78-4ae4-9517-31ba76617a9c)
 ini merupakan tabel direktur bank yang terdapat atribut id_direktur sebagai primary key, dan juga nama_direktur
-![Screenshot 2023-09-14 003636](https://github.com/Dlann12/Table_Database/assets/130965620/f35c62b4-1bd2-434e-adc1-a8355d367b4f)
+![image](https://github.com/Dlann12/Table_Database/assets/130965620/20512197-0d75-4e42-b5a5-33cb754395de)
 
 dan ini adalah tampilan setelah tabel direktur diisi value atau nilainya.
 
 ## TELLER
-![Screenshot 2023-09-14 002843](https://github.com/Dlann12/Table_Database/assets/130965620/ea0e88a2-3d23-4b7e-a22c-47f586289240)
+![image](https://github.com/Dlann12/Table_Database/assets/130965620/38ebb13a-1cb6-48ad-af13-f3983be398ce)
 Gambar diatas merupakan tabel databse pada teller, yang memiliki atribut yaitu id_teller dan juga nama_teller, id_teller sebagai primary key disini.
 untuk melihat kode pembuatan tabel dapat diakses disini 
 - Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/teller.sql">Kode Tabel teller</a><br><br>
 kemudian kode tersebut akan menghasilkan output sebagai berikut
-![Screenshot 2023-09-14 003559](https://github.com/Dlann12/Table_Database/assets/130965620/b32e4d53-7ec3-4dd7-b468-6759db9bda2e)
+![image](https://github.com/Dlann12/Table_Database/assets/130965620/fe96baa9-cb59-464d-8e88-f01b875827e6)
 
 ini adalah tabel dari teller
 
-![Screenshot 2023-09-14 003616](https://github.com/Dlann12/Table_Database/assets/130965620/af39ceec-ef3e-41cc-a2d0-8b9f97dd989a)
+![image](https://github.com/Dlann12/Table_Database/assets/130965620/c0f2d0cf-7fe8-458a-adcb-4f17b36aed9c)
 
 ini merupakan tabel setelah diisi value atau nilainy, karena kurang lebih pembahasannnya sama seperti diatas saya rasa tidak perlu dijelaskan kembali, terimakasih.

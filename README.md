@@ -37,19 +37,19 @@ ini merupakan tabel yang telah kita masukkan valuenya sehingga memiliki nilai, d
 
 ## DIREKTUR BANK
 ![image](https://github.com/Dlann12/Table_Database/assets/130965620/9334cd01-fb12-4037-8b45-e9daa64293c5)
-Gambar diatas merupakan gambar dari tabel direktur bank terdapat atribut atribut berupa id_direktur dan juga nama_direktur, yang dimana id_direktur nmerupakan primary key dari tabel direktur bank.
+Gambar diatas merupakan gambar dari tabel direktur bank terdapat atribut atribut berupa id_direktur, nama_direktur, id_cabang sebagai foreign key, no_telepon, email, tanggal_bergabung, alamat, dan jenis kelamin, yang dimana id_direktur nmerupakan primary key dari tabel direktur bank.
 untuk kode pembuatan tabel pada phpmyadmin dapat dilihat sebagai berikut 
 - Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/direktur.sql">Kode Tabel Direktur</a><br><br>
 Pada kode diatas akan mendjadi sebuah tampilan pada web phpmyadmin seperti sebelum sebelumnya yaitu seperti gambar dibawah ini
 ![image](https://github.com/Dlann12/Table_Database/assets/130965620/770d2f9c-7e78-4ae4-9517-31ba76617a9c)
-ini merupakan tabel direktur bank yang terdapat atribut id_direktur sebagai primary key, dan juga nama_direktur
+ini merupakan tabel direktur bank yang terdapat atribut id_direktur sebagai primary key, dan atribut atribut lainnya berupa id_direktur, nama_direktur, id_cabang sebagai foreign key, no_telepon, email, tanggal_bergabung, alamat, dan jenis kelamin
 ![image](https://github.com/Dlann12/Table_Database/assets/130965620/20512197-0d75-4e42-b5a5-33cb754395de)
 
 dan ini adalah tampilan setelah tabel direktur diisi value atau nilainya.
 
 ## TELLER
 ![image](https://github.com/Dlann12/Table_Database/assets/130965620/38ebb13a-1cb6-48ad-af13-f3983be398ce)
-Gambar diatas merupakan tabel databse pada teller, yang memiliki atribut yaitu id_teller dan juga nama_teller, id_teller sebagai primary key disini.
+Gambar diatas merupakan tabel databse pada teller, yang memiliki atribut yaitu id_teller, nama_teller, alamat, email. no_telepon, jenis_kelamin, dan tanggal_lahir, id_teller sebagai primary key disini.
 untuk melihat kode pembuatan tabel dapat diakses disini 
 - Lihat <a href="https://github.com/Dlann12/Table_Database/blob/main/teller.sql">Kode Tabel teller</a><br><br>
 kemudian kode tersebut akan menghasilkan output sebagai berikut
